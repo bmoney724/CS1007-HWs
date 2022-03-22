@@ -1,0 +1,2 @@
+gimme the bin(with spaces between each digit): 0 1 1 1 0 0 1 1
+115
