@@ -11,7 +11,8 @@ void createpersons(int people)
 {
     struct person *temp;
     struct person *bottom;
-    int a,ch;
+    int a;
+    int ch;
     for(int l = 1; l<=people; l++){
         temp=(struct person *)malloc(sizeof(struct person));
         temp->num=l;
@@ -37,7 +38,8 @@ void createpersons(int people)
 
 int survivor(int k)
 {
-    struct person *p,*q;
+    struct person *p;
+    struct person *q;
     int i;
     p=top;
     q=top;
