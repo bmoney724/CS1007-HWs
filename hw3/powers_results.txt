@@ -1,0 +1,3 @@
+gimme the number:7
+gimme the power:4
+2401

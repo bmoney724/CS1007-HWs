@@ -8,16 +8,15 @@ void hanoi4(int rings, int starter, int ender, int helpa, int helpb){
     }
     
     if (rings == 1) {
-    printf("\n Move disk top from rod %c to rod %d", rings, starter, ender);
+    printf("\n Move disk %d from rod %d to rod %d", rings, starter, ender);
     return;
     }
 
     hanoi4(rings-2, starter, helpa, helpb, ender);
-    printf("\n Move disk top from rod %d to rod %d ", rings-1, starter, helpb);
-    printf("\n Move disk top from rod %d to rod %d ", rings, starter, ender);
-    printf("\n Move disk top from rod %d to rod %d ", rings-1, helpb, ender);
-    hanoi4(rings-2, helpa, ender, starter,
-    helpb);
+    printf("\n Move disk %d from rod %d to rod %d ", rings-1, starter, helpb);
+    printf("\n Move disk %d from rod %d to rod %d ", rings, starter, ender);
+    printf("\n Move disk %d from rod %d to rod %d ", rings-1, helpb, ender);
+    hanoi4(rings-2, helpa, ender, starter, helpb);
 }
 
 void hanoi5(int r, int starter, int ender, int helpa, int helpb, int helpc){

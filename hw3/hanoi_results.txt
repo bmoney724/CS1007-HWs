@@ -1,0 +1,32 @@
+how many pegs: 4
+how many rings: 7
+
+ Move disk 1 from rod 1 to rod 2
+ Move disk 2 from rod 1 to rod 3
+ Move disk 3 from rod 1 to rod 4
+ Move disk 2 from rod 3 to rod 4
+ Move disk 1 from rod 2 to rod 4
+ Move disk 4 from rod 1 to rod 2
+ Move disk 5 from rod 1 to rod 3
+ Move disk 4 from rod 2 to rod 3
+ Move disk 1 from rod 4 to rod 1
+ Move disk 2 from rod 4 to rod 2
+ Move disk 3 from rod 4 to rod 3
+ Move disk 2 from rod 2 to rod 3
+ Move disk 1 from rod 1 to rod 3
+ Move disk 6 from rod 1 to rod 4
+ Move disk 7 from rod 1 to rod 2
+ Move disk 6 from rod 4 to rod 2
+ Move disk 1 from rod 3 to rod 4
+ Move disk 2 from rod 3 to rod 2
+ Move disk 3 from rod 3 to rod 1
+ Move disk 2 from rod 2 to rod 1
+ Move disk 1 from rod 4 to rod 1
+ Move disk 4 from rod 3 to rod 4
+ Move disk 5 from rod 3 to rod 2
+ Move disk 4 from rod 4 to rod 2
+ Move disk 1 from rod 1 to rod 3
+ Move disk 2 from rod 1 to rod 4
+ Move disk 3 from rod 1 to rod 2
+ Move disk 2 from rod 4 to rod 2
+ Move disk 1 from rod 3 to rod 2

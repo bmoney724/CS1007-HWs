@@ -40,5 +40,5 @@ int main(){
     }
     miles  = jeep(cans/2, 0, miles, 0) - 1;
 
-    printf("%d miles into the desert", miles);
+    printf("%d miles into the desert (assuming 3 miles per tank/can)", miles);
 }

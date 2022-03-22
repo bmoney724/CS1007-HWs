@@ -1,0 +1,31 @@
+ You have the following choices:
+ 1. Leap year test
+ 2. Get first day of the month
+ 3. Get a monthly calendar
+ 4. Get a quarterly calendar
+ 5. Quit
+ Please enter your choice at this time:
+4
+Please enter the year: 2020
+Please enter the quarter: 1
+    January 2020
+ Su Mo Tu We Th Fr Sa
+           1  2  3  4
+  5  6  7  8  9 10 11
+ 12 13 14 15 16 17 18
+ 19 20 21 22 23 24 25
+ 26 27 28 29 30 31
+    February 2020
+ Su Mo Tu We Th Fr Sa
+                    1
+  2  3  4  5  6  7  8
+  9 10 11 12 13 14 15
+ 16 17 18 19 20 21 22
+ 23 24 25 26 27 28 29
+    March 2020
+ Su Mo Tu We Th Fr Sa
+  1  2  3  4  5  6  7
+  8  9 10 11 12 13 14
+ 15 16 17 18 19 20 21
+ 22 23 24 25 26 27 28
+ 29 30 31

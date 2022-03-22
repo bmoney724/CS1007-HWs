@@ -1,0 +1,10 @@
+enter a number (-1 to end):4
+enter a number:7
+enter a number:1
+enter a number:3
+enter a number:9
+enter a number:45
+enter a number:3
+enter a number:-1
+high num is: 45
+low num is: 1

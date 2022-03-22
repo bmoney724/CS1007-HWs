@@ -1,0 +1,13 @@
+specify size: 11
+specify character: r
+     r
+    r r
+   r   r
+  r     r
+ r       r
+r         r
+ r       r
+  r     r
+   r   r
+    r r
+     r
